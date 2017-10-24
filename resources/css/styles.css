@@ -77,4 +77,5 @@ text-decoration: none;
   font-size: 11px;
   color: white;
   text-decoration: none;
+  overflow: hidden; 
 }
