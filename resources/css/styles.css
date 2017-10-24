@@ -64,7 +64,10 @@ text-decoration: none;
 
 .webpage li {
   list-style-type: none;
-  padding: 0; 
+}
+
+.webpage ul {
+  padding: 0;
 }
 
 .footer {
