@@ -27,6 +27,10 @@ li {
   padding: 0;
 }
 
+ul {
+  padding: 0; 
+}
+
 .webpage {
   text-align: center;
 }
